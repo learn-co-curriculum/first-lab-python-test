@@ -1,12 +1,13 @@
 # Your First Lab
 
-On Learn, labs are exercises you have to complete.
+One of the neat features on Learn is the ability to download labs, add your code to them and know immediately if you met your goal.
 
-The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
+In order to get your own copy of the labs to work on, you will need to work with Git and Github.
+
+The goal of this lab is to walkthough what the overall workflow is for your prework labs.
 
 To complete this lab you will have to:
-
-1. Fork the lab via github.
+1. Fork the lab via Github.
 2. Clone your fork.
 3. Solve the Lab
 4. Push that commit to your fork.
@@ -89,7 +90,7 @@ Now, try to run your test by running `python test_first_lab.py` on your terminal
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png" alt="Git Workflow 4">
 
-After adding and commiting your most recent work next we want to push our work up to our personal Github remote (origin).
+After adding and committing your most recent work next we want to push our work up to our personal Github remote (origin).
 
 `git push origin master`
 
@@ -122,5 +123,3 @@ Then click Create pull request button again.
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
 That's it, you're done! Now go back to Learn and you should see the Pull Request flip to green, and the remote build will be kicked off. Once it passes, you will be able to proceed to the Next Lesson.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab' title='Your First Lab'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
