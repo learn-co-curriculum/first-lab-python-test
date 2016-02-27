@@ -68,8 +68,7 @@ Now, try to run your test by running `python test_first_lab.py` on your terminal
 2. Simply create a file. It doesn't matter what you call it.
 `touch my-new-file.txt`
 
-3. Once you've done that, run python `test_first_lab.py` again, which will run one test. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
-
+3. Once you've done that, run `python test_first_lab.py` again, which will run one test. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
 
 
 ![1](https://dl.dropboxusercontent.com/s/rfs3onevx3l2o21/2015-05-03%20at%209.10%20PM%20%281%29.png)
